@@ -1,7 +1,3 @@
----
-title: xxx
-...
-
 # Preparing the computer for the laboratory
 
 1. Install Anaconda distribution - see section 3.
@@ -77,10 +73,10 @@ Basic commands [help]( https://conda.io/docs/user-guide/tasks/manage-pkgs.html):
 # Tools
 
 Ipython:
-  : In simple terms, it is a modern, interactive Python interpreter console. In fact, Ipython is something much bigger - [here[(https://ipython.org/ipython-doc/stable/overview.html) you can read about it.  
+  >In simple terms, it is a modern, interactive Python interpreter console. In fact, Ipython is something much bigger - [here](https://ipython.org/ipython-doc/stable/overview.html) you can read about it.  
 
 Jupyter Notebook:
-  : formerly known as *Ipython Notebok*, it is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media. 
+   >formerly known as *Ipython Notebok*, it is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media. 
 
 
 ## First jupyter notebook
