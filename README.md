@@ -3,9 +3,9 @@
 A repository for faculty students on the use of Python in image processing.
 
 Content:
-  - markdown document describing software installation - `install.md'
+  - markdown document describing software installation - `install.md`
   - jupyter notebooks: lab01, lab02, ...
-  - img_test directory with images used in notebooks
+  - `img_test` directory with images used in notebooks
 
 ---
 
