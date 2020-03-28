@@ -1,27 +1,32 @@
-## Python in image processing - supporting materials
+# Python in image processing - supporting materials
 
 A repository for faculty students on the use of Python in image processing.
 
 Content:
+  - markdown document describing software installation - `install.md'
   - jupyter notebooks: lab01, lab02, ...
   - img_test directory with images used in notebooks
 
 ---
 
-## Uproszczona obsługa dokumentów
+## Simple working with documents
 
-W repozytorium dokumenty przechowywane są:
+The documents are stored in the repository:
 
-  - jako pliki *jupyter notebook* - pliki z rozszerzeniem *.ipynb*
-  - jako pliki tekstowe w formacie [markdown](https://www.markdownguide.org/)) - pliki z rozszerzeniem *.md*. 
+- as text file in format [markdown](https://www.markdownguide.org/) - file with extenstion *.md*. 
 
-Przeglądanie plików *md* możliwe jest w najprostszym edytorze typu notatnik. Jeśli jednak dokument zawiera bardziej skomplikowane elementy np. równania, obrazy to potrzebujesz aby został skonwertowany do innego formatu. Najczęściej:
-  - html
-  - pdf
-  - latex
+Working with documents *md* is possible in simple editor notebook. 
+To display formulas, drawings, tables etc. you can:
 
-Najprostsze sposoby konwersji:
+ - use a dedicated text editor
+ - convert the document to another format i.e.: html, pdf, latex etc.
 
-  - instalacja edytora [Mark Text](https://github.com/marktext/marktext): obsługa *markdown*, eksport do html, pdf 
-  - instalacja edytora [notepad++](https://notepad-plus-plus.org/) i dostępnych rozszerzeń do obsługi *markdown*
-  - skorzystanie z internetowych konwerterów online
+Simple open-sourcowe edytors:
+
+ - [Mark Text](https://github.com/marktext/marktext): use *markdown*, eksport to html, pdf 
+ - [notepad++](https://notepad-plus-plus.org/) with installed extensions for handling *markdown*
+
+There are also available in the Internet converters/ediotors on-line. 
+
+
+
