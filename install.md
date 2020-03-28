@@ -93,4 +93,41 @@ In order to be able to operate virtual environments and collaborate with the *co
    - in (base) environment run: *conda install nb_conda*
 
 
+# Preparation of the environment
 
+## Conda environment
+
+1. Run terminal
+2. Create new environment: `conda create -n lab2`
+3. Activate environment: `conda activate lab2`
+3. Install pakages:
+
+   - numpy: for operations on an array of numbers
+   - scipy: image processing functions
+   - pillow (PIL): opening image files, image processing functions
+     `conda install -c anaconda numpy scipy pillow` 
+   - matplotlib: displaying images on the screen
+     `conda install -c conda-forge matplotlib`
+   - ipykernel: jupyter's packages
+     `conda install -c anaconda ipykernel`
+
+## Data
+
+1. Go to page: [ImageProcessingPlace](http://imageprocessingplace.com/root_files_V3/image_databases.htm).
+2. Download zip file - fifth (5) row of the table.
+3. Create a directory on the disk and extract the images to it.
+
+## Runnig jupyter
+
+1. Start a terminal or deactivate an environment other than 'base' if it is running
+2. In the 'base' environment, run: `jupyter notebook`
+3. In the opened browser window, go to the directory in which you will work (with images downloaded from the Internet).
+4. Click `New` in the upper right corner of the window and select the `lab2` environment. A new notebook window will open.
+
+## Changing the notebook name
+
+1. A notebook file has been created in the working directory: `Untitled.ipynb`
+2. Close notepad: menu `File / Close and Halt`
+3. In the file browser Jupiter window will know the notebook file and click the `rename` icon in the top menu
+4. Rename the notebook file.
+5. Launch the notebook by clicking it.
